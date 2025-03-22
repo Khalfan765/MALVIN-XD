@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "MALVIN-XD~4o4mzSAJ#fH0Px_LiZDoRGNSJTlcWnCAuRgPq4VEO50iVrJbTw-g"
     },  
     
     "MENU_IMG": {
@@ -95,8 +95,8 @@
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
-      "required": true,
-      "value": "*🎉👀Status Seen by malvin xd v2🚀🔥*"
+      "required": true,but 
+      "value": "false"
     }, 
 
     "OWNER_NAME": {
@@ -109,7 +109,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "263714757857"
+      "value": "255794437723"
 
     }, 
 
@@ -148,7 +148,7 @@
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_TYPING": {
